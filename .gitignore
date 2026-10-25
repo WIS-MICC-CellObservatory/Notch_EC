@@ -1,0 +1,15 @@
+# Python environment and caches (created locally, not part of the repository)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local analysis test outputs
+test_*/
+results*/
+
+# Editor / system files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
